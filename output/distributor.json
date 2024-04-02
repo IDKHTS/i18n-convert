@@ -1,0 +1,1489 @@
+{
+  "name": "distributor",
+  "distributorMetas": [
+    {
+      "title": "iMakr",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+      "hLink": "https://www.imakr.com/snapmaker-3d-printers",
+      "tag": "americas"
+    },
+    {
+      "title": "B&H",
+      "country": "United States",
+      "phone": "+1 (800) 606-6969",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/B-AND-H.png",
+      "hLink": "https://www.bhphotovideo.com/c/search?q=Snapmaker&sts=ma",
+      "tag": "americas"
+    },
+    {
+      "title": "Robotshop",
+      "country": "Canada",
+      "phone": "+1 (450) 420-1446",
+      "email": "support@robotshop.com ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+      "hLink": "https://www.robotshop.com/ca/en/3d-printers.html?general_brand[]=Snapmaker",
+      "tag": "americas"
+    },
+    {
+      "title": "Resins3D",
+      "country": "Canada",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/Resins.png",
+      "hLink": "https://resins3d.com/pages/snapmaker",
+      "tag": "americas"
+    },
+    {
+      "title": "DigitMakers",
+      "country": "Canada",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/digitMakers.png",
+      "hLink": "https://www.digitmakers.ca/pages/search-results-page?q=Snapmaker&page=1&rb_vendor=Snapmaker",
+      "tag": "americas"
+    },
+    {
+      "title": "Shop3D",
+      "country": "Canada",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/shop3D_logo_COLOR.png",
+      "hLink": "https://shop3d.ca/collections/snapmaker",
+      "tag": "americas",
+      "index": 14
+    },
+    {
+      "title": "DEDICO",
+      "country": "Costa Rica",
+      "phone": "(506) 2234-6735",
+      "email": "soluciones@dedicocr.com",
+      "address": "50 meters North of MIDEPLAN, Barrio Dent,  Montes de Oca, San José",
+      "hasLink": false,
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/dedico.png",
+      "hLink": "https://www.dedicocr.com/",
+      "tag": "americas"
+    },
+    {
+      "title": "Across Trade",
+      "country": "Argentina",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/AcrossTrade.png",
+      "hLink": "http://www.4makers.com.ar/",
+      "tag": "americas",
+      "index": 8
+    },
+    {
+      "title": "Micro Center",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/Micro-Center-Logo-1200x675-1-561x316.webp",
+      "hLink": "https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=Snapmaker&searchButton=search",
+      "tag": "americas",
+      "index": 9
+    },
+    {
+      "title": "Robotshop",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+      "hLink": "https://www.robotshop.com/en/3d-printers.html?general_brand[]=Snapmaker",
+      "tag": "americas",
+      "index": 10
+    },
+    {
+      "title": "3D Universe",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/universe-3d-icon.png",
+      "hLink": "https://shop3duniverse.com/collections/snapmaker-3-in-1-machines",
+      "tag": "americas",
+      "index": 16
+    },
+    {
+      "title": "Go3DPro",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/go-3d-pro-icon.png",
+      "hLink": "https://www.go3dpro.com/snapmaker-2-3-in-1-3d-printers.html",
+      "tag": "americas",
+      "index": 19
+    },
+    {
+      "title": "3be",
+      "country": "Brazil",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3be-logo.png",
+      "hLink": "https://3be.com.br/produtos/snapmaker-2-0/",
+      "tag": "americas",
+      "index": 11
+    },
+    {
+      "title": "Century 3D",
+      "country": "Mexico",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/century3d.png",
+      "hLink": "https://www.century3d.com.mx/impresoras-3d-modulares-3-en-1/",
+      "tag": "americas",
+      "index": 12
+    },
+    {
+      "title": "Endurance Lasers USA",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/EnduranceUSA.png",
+      "hLink": "https://www.endurancelasersusa.com/products/snapmaker-2-0-modular-3-in-1-3d-printer",
+      "tag": "americas",
+      "index": 14
+    },
+    {
+      "title": "Learning Labs, Inc.",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/learninglabs-15.png",
+      "hLink": "https://www.lli.com/snapmaker",
+      "tag": "americas",
+      "index": 15
+    },
+    {
+      "title": "STEMfinity",
+      "country": "United States",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/stemfinity.png",
+      "hLink": "https://stemfinity.com/collections/snapmaker",
+      "tag": "americas",
+      "index": 16
+    },
+    {
+      "title": "ALLNET GmbH",
+      "country": "Germany",
+      "phone": "+49 (0)89 842 222-22",
+      "email": "snapmaker@allnet.de",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/08-allnet.png",
+      "hLink": "https://shop.allnet.de/search?sSearch=snapmaker",
+      "tag": "europe"
+    },
+    {
+      "title": "PHYWE Systeme",
+      "country": "Germany",
+      "phone": "+49 (0)551 604-0",
+      "email": "info@phywe.com",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/11-phywe.png",
+      "hLink": "https://www.phywe.com/en/3d-drucker-3-in-1-3d-druck-lasergravur-und-cnc-fraese-typ-snapmaker.html",
+      "tag": "europe"
+    },
+    {
+      "title": "PowerData",
+      "country": "Switzerland",
+      "phone": "+41 (2)18 215 500",
+      "email": "info@powerdata.ch",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/12-powerdata.png",
+      "hLink": "http://shop.powerdata.ch/fr/3dprt/1596-snapmaker-3in1-3d-printer-SR-3-IN-1-6971573448015.html",
+      "tag": "europe"
+    },
+    {
+      "title": "3DNet",
+      "country": "Norway",
+      "phone": "+47 (22) 600090",
+      "email": "info@3dnet.no",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/07-3dnet.png",
+      "hLink": "https://3dnet.no/collections/3dprinter/products/snapmaker-2-0",
+      "tag": "europe"
+    },
+    {
+      "title": "3DMarkt.AT",
+      "country": "Germany",
+      "phone": "+49 (1)51 656 232-84",
+      "email": "info@3Dmarkt.at",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/06-3dmarket.png",
+      "hLink": "https://3dmarkt.at/en/advanced_search_result.php?categories_id=0&keywords=snapmaker&inc_subcat=1",
+      "tag": "europe"
+    },
+    {
+      "title": "3DTOOL",
+      "country": "Russia",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-3d-tool-icon.png",
+      "hLink": "https://3dtool.ru/category/3d-printery/filter/manufacturer_us-is-snapmaker/",
+      "tag": "europe",
+      "index": 32
+    },
+    {
+      "title": "Top3DShop",
+      "country": "Russia",
+      "phone": "+7 (499) 322 23 19",
+      "email": "sales@top3dshop.ru",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/13-top3dshop.png",
+      "hLink": "https://top3dshop.ru/kupit-3d-printer/personal/f/manufacturer-snapmaker/",
+      "tag": "europe"
+    },
+    {
+      "title": "iMakr",
+      "country": "France",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+      "hLink": "https://www.imakr.com/fr/414-imprimantes-3d-snapmaker",
+      "tag": "europe"
+    },
+    {
+      "title": "Atome 3D",
+      "country": "France",
+      "phone": "+7 (499) 322 23 19",
+      "email": "sales@top3dshop.ru",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-atome-3d.png",
+      "hLink": "https://www.atome3d.com/collections/snapmaker-machines-3d-module-dimpression-decoupe-feuilles-fibre-pom",
+      "tag": "europe"
+    },
+    {
+      "title": "123 3D",
+      "country": "Netherlands",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-12303d.png",
+      "hLink": "https://www.123-3d.nl/3D-printers/Snapmaker-2-0-A350-p16618.html",
+      "tag": "europe"
+    },
+    {
+      "title": "Mauser pt",
+      "country": "Portugal",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-mauser-pt.png",
+      "hLink": "https://mauser.pt/catalog/index.php?cPath=2207_2307&sort=2a&filter_id=370",
+      "tag": "europe"
+    },
+    {
+      "title": "Filament2Print",
+      "country": "Portugal",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-filament2print-logo.png",
+      "hLink": "https://filament2print.com/gb/filament-fdm/1340-snapmaker-20-3-in-1.html",
+      "tag": "europe"
+    },
+    {
+      "title": "Botland",
+      "country": "Poland",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Botland.png",
+      "hLink": "https://botland.com.pl/1089-drukarki-3d-snapmaker",
+      "tag": "europe"
+    },
+    {
+      "title": "VISION DISTRIBUTION",
+      "country": "Poland",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-vision-distribution-www2.png",
+      "hLink": "https://vision-distribution.pl/index.php/elementy-programu/4-drukarka-3d-snapmaker-v2-0-3w1-model-a350t-modul-lasera",
+      "tag": "europe"
+    },
+    {
+      "title": "iGo3D",
+      "country": "Germany",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/IGO 3D.png",
+      "hLink": "https://www.igo3d.com/Snapmaker-20-A350T-Enclosure",
+      "tag": "europe"
+    },
+    {
+      "title": "Versotrade",
+      "country": "Czech Republic",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-versotrade.png",
+      "hLink": "https://www.snapmakerstore.cz/vsechny-produkty/",
+      "tag": "europe"
+    },
+    {
+      "title": "A Printer",
+      "country": "Switzerland",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-a-printer-en-tete.png",
+      "hLink": "https://a-printer.ch/produit/snapmaker-2-a350t-caisson/",
+      "tag": "europe"
+    },
+    {
+      "title": "Steamkits.eu",
+      "country": "Latvia",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-steamkits.jpg",
+      "hLink": "https://snapmaker.steamkits.eu",
+      "tag": "europe"
+    },
+    {
+      "title": "Steamkits.eu",
+      "country": "Lithuania",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-steamkits-eu.jpg",
+      "hLink": "https://snapmaker.steamkits.eu",
+      "tag": "europe"
+    },
+    {
+      "title": "Allknow",
+      "country": "Germany",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/ALLknow_logo.png",
+      "hLink": "https://shop.maker-store.de/3d-druck-stift/3d-druck/3d-drucker/5396/snapmaker-2.0-a350t-3-in-1-3d-drucker-laser-cnc-fraese-gehaeuse-eu-version",
+      "tag": "europe"
+    },
+    {
+      "title": "Böttcher AG",
+      "country": "Germany",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-bottcher-ag.png",
+      "hLink": "https://www.bueromarkt-ag.de/snapmaker.html?ref=suche",
+      "tag": "europe"
+    },
+    {
+      "title": "Coolblue",
+      "country": "Germany",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-coolblue.png",
+      "hLink": "https://www.coolblue.nl/3d-printers/snapmaker",
+      "tag": "europe"
+    },
+    {
+      "title": "Digitec",
+      "country": "Switzerland",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/digitec-ch-logo-vector.png",
+      "hLink": "https://www.digitec.ch/en/search?q=snapmaker&is=snapmaker",
+      "tag": "europe"
+    },
+    {
+      "title": "MediaMarkt",
+      "country": "Switzerland",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-media-markt.png",
+      "hLink": "https://www.mediamarkt.ch/de/product/_snapmaker-3-in-1-1904548.html",
+      "tag": "europe"
+    },
+    {
+      "title": "iMakr",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+      "hLink": "https://www.imakr.com/uk/snapmaker-3d-printers",
+      "tag": "europe"
+    },
+    {
+      "title": "Box",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/32-box.png",
+      "hLink": "https://www.box.co.uk/snapmaker-3-in-1-3d-printers",
+      "tag": "europe"
+    },
+    {
+      "title": "Manchester Metrology",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ep-1-Manchester.png",
+      "hLink": "https://manchester-metrology.co.uk/product-category/snapmaker/",
+      "tag": "europe",
+      "index": 21
+    },
+    {
+      "title": "Flamefast",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Flamefast.png",
+      "hLink": "https://www.flamefast.co.uk/snapmaker.html",
+      "tag": "europe"
+    },
+    {
+      "title": "Technology Outlet",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/27-technology-outlet-logo.png",
+      "hLink": "https://technologyoutlet.co.uk/collections/3d-printers/products/snapmaker-3-in-1-3d-printer",
+      "tag": "europe"
+    },
+    {
+      "title": "Robotshop",
+      "country": "United Kingdom",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+      "hLink": "https://www.robotshop.com/uk/3d-printers.html?general_brand[]=Snapmaker",
+      "tag": "europe",
+      "index": 25
+    },
+    {
+      "title": "3DINBOX",
+      "country": "Romania",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/38-3DINBOX.png",
+      "hLink": "https://www.3dinbox.ro/cumpara/snapmaker-original-3-in-1-818",
+      "tag": "europe",
+      "index": 20
+    },
+    {
+      "title": "Help3D",
+      "country": "Italy",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ep-2-H3D.png",
+      "hLink": "https://www.3dinbox.ro/catalog/snapmaker-78",
+      "tag": "europe",
+      "index": 22
+    },
+    {
+      "title": "Geppit",
+      "country": "Bulgaria",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-geppit-icon.png",
+      "hLink": "https://geppit.com/store/3d-printing/",
+      "tag": "europe",
+      "index": 31
+    },
+    {
+      "title": "Maketechnics",
+      "country": "Bulgaria",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/maketechnics.png",
+      "hLink": "https://www.maketechnics.com/fdm-3d-printers?%D0%9C%D0%B0%D1%80%D0%BA%D0%B0=Snapmaker+3-in-1",
+      "tag": "europe",
+      "index": 21
+    },
+    {
+      "title": "EdPro",
+      "country": "Ukraine",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/EdPro.jpg",
+      "hLink": "https://snapmaker.com.ua/",
+      "tag": "europe",
+      "index": 24
+    },
+    {
+      "title": "MERKUUR",
+      "country": "Estonia",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/MERKUUR.png",
+      "hLink": "https://www.merkuur.eu/snapmaker",
+      "tag": "europe",
+      "index": 27
+    },
+    {
+      "title": "3D Prima",
+      "country": "Sweden",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-28-3D-Prima-Logo.png",
+      "hLink": "https://www.3dprima.com/3d-printers-more/manufacturer/snapmaker",
+      "tag": "europe",
+      "index": 28
+    },
+    {
+      "title": "3Djake",
+      "country": "Austria",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-3djake.png",
+      "hLink": "https://www.3djake.com/snapmaker/snapmaker-20-including-enclosure",
+      "tag": "europe",
+      "index": 29
+    },
+    {
+      "title": "Filament2print",
+      "country": "Spain",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-filament2print-logo.png",
+      "hLink": "https://filament2print.com/gb/73_snapmaker",
+      "tag": "europe",
+      "index": 30
+    },
+    {
+      "title": "Ciano Shapes",
+      "country": "Italy",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ciano-shapes.png",
+      "hLink": "https://cianoshapes.com/snapmaker/",
+      "tag": "europe",
+      "index": 33
+    },
+    {
+      "title": "Filamentech",
+      "country": "Israel",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-filamentech.jpg",
+      "hLink": "https://www.filamentech.co.il/252606-snapmaker",
+      "tag": "others"
+    },
+    {
+      "title": "Genix",
+      "country": "Turkey",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/FOR_WEB_Genix_Logo.png",
+      "hLink": "https://www.genix.com.tr/en/service-sales-points",
+      "tag": "others"
+    },
+    {
+      "title": "Hands On Technology",
+      "country": "South Korea",
+      "phone": "+82 2608-2633",
+      "email": "sales@handsontech.co.kr",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/16-handsontech.png",
+      "hLink": "https://www.handsontech.co.kr/goods/catalog?code=0015",
+      "tag": "others"
+    },
+    {
+      "title": "RAS INTERNATIONAL",
+      "subtitle": "CORP.",
+      "country": "Taiwan China",
+      "phone": "+886 (2) 2358-1782",
+      "email": "peterfong0909@gmail.com",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/21-ruisishiye.png",
+      "hLink": "https://goods.ruten.com.tw/item/show?21809720403770",
+      "tag": "others"
+    },
+    {
+      "title": "Chengdu Lixian ",
+      "subtitle": "3D Technology",
+      "country": "Mainland China",
+      "phone": "+86 (028) 6138-4119",
+      "email": "66684907@qq.com",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/20-lixiansanwei.png",
+      "hLink": "http://www.cy3dp.com/content-17-95-1.html",
+      "tag": "others"
+    },
+    {
+      "title": "VANLINKS",
+      "country": "Japan",
+      "phone": "+81 (3) 6264-8233",
+      "email": "info@van-links.com",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/19-vanlinks.png",
+      "hLink": "https://snapmaker.jp/",
+      "tag": "others"
+    },
+    {
+      "title": "3D Printing Pro",
+      "country": "Australia",
+      "phone": "+61 (04) 0768-6368",
+      "email": "clicknprint3d.com.au",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/14-3dprintingpro.png",
+      "hLink": "https://www.3dprintingpro.com.au/collections/snapmaker",
+      "tag": "others"
+    },
+    {
+      "title": "Cytron",
+      "country": "Malaysia",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/28-Cytron_ Logo.png",
+      "hLink": "https://www.cytron.io/snapmaker",
+      "tag": "others"
+    },
+    {
+      "title": "FUNERS",
+      "country": "South Korea",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/29-funers_Logo.png",
+      "hLink": "http://www.shopfuners.com/goods/goods_list.php?cateCd=009003002",
+      "tag": "others"
+    },
+    {
+      "title": "3Dmaker",
+      "country": "Vietnam",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/30-3Dmaker_Logo.png",
+      "hLink": "http://www.3dmaker.vn/may-in-3d-da-nang-snapmaker-2-0/",
+      "tag": "others"
+    },
+    {
+      "title": "Jaycar",
+      "country": "Australia",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Jaycar.png",
+      "hLink": "https://www.jaycar.com.au/snapmaker-3-in-1-printer-with-3d-printer-laser-etching-cnc-carving-interchanging-modules/p/TL4400",
+      "tag": "others"
+    },
+    {
+      "title": "Regulus Robotics Machine",
+      "country": "Republic of Kazakhstan",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/RegulusRoboticsMachine.png",
+      "hLink": "https://robotprostore.kz/3d-printers?product_id=226",
+      "tag": "others"
+    },
+    {
+      "title": "PT. Kirana Sakti Komputindo",
+      "country": "Indonesia",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/35-Logo-printer3d.png",
+      "hLink": "https://www.printer3d.co.id/snapmaker-2-0-2/",
+      "tag": "others"
+    },
+    {
+      "title": "Siamreprap",
+      "country": "Thailand",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/37-SIAM REPRAP.png",
+      "hLink": "https://www.siamreprap.com/snapmaker-original-3d-printer/",
+      "tag": "others",
+      "index": 18
+    },
+    {
+      "title": "alGadgets Electronics ",
+      "country": "United Arab Emirates",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/39-alGadgets.jpg",
+      "hLink": "https://www.algadgets.com/uae/brands/snapmaker",
+      "tag": "others",
+      "index": 20
+    },
+    {
+      "title": "L Corporation",
+      "country": "South Korea",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/40-LCorporation.png",
+      "hLink": "http://lcorporation.co.kr/product/product_list.asp?code1=1&code2=13",
+      "tag": "others",
+      "index": 21
+    },
+    {
+      "title": "3DMart HK",
+      "country": "Hong Kong(SAR of China)",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/41-3DMARK.png",
+      "hLink": "https://3dmart.com.hk/en/products/snapmaker-3d-printer",
+      "tag": "others",
+      "index": 22
+    },
+    {
+      "title": "3D Lab Store",
+      "country": "Hong Kong(SAR of China)",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/3D-Lab-Store-logo.jpg",
+      "hLink": "https://3dlabstore.com.hk/brand/snapmaker?lang=en",
+      "tag": "others"
+    },
+    {
+      "title": "FELTA Multi-Media Inc.",
+      "country": "Philippines",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/felta.png",
+      "hLink": "http://felta.ph/",
+      "tag": "others",
+      "index": 23
+    },
+    {
+      "title": "3Idea Technology LLP ",
+      "country": "India",
+      "phone": "",
+      "email": " ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/idea.png",
+      "hLink": "https://www.3idea.in/3d-printers/snapmaker",
+      "tag": "others",
+      "index": 24
+    },
+    {
+      "title": "Robotshop",
+      "country": "Japan",
+      "phone": "+1 (450) 420-1446",
+      "email": "support@robotshop.com ",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+      "hLink": "https://www.robotshop.com/jp/ja/3d-printers.html?___store=jp_ja&general_brand[0]=Snapmaker&___from_store=ca_en",
+      "tag": "others",
+      "index": 25
+    },
+    {
+      "title": "VST ECS",
+      "country": "Thailand",
+      "phone": "",
+      "email": "",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/VST-ECS.jpg",
+      "hLink": "http://www.vstecs.co.th/th",
+      "tag": "others",
+      "index": 26
+    },
+    {
+      "title": "3DMart TW",
+      "country": "Taiwan China",
+      "phone": "",
+      "email": "",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3dmart-logo.png",
+      "hLink": "https://3dmart.com.tw/products/snapmaker-laser-engraving-cutting",
+      "tag": "others",
+      "index": 27
+    },
+    {
+      "title": "3DPW",
+      "country": "Taiwan China",
+      "phone": "",
+      "email": "",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3dpw-logo.png",
+      "hLink": "https://www.3dprow.com/collections/snapmaker",
+      "tag": "others",
+      "index": 28
+    },
+    {
+      "title": "MindKits",
+      "country": "New Zealand",
+      "phone": "",
+      "email": "",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/mindkis-30.png",
+      "hLink": "https://www.mindkits.co.nz/Snapmaker2.aspx",
+      "tag": "others",
+      "index": 30
+    },
+    {
+      "title": "Makerspacific (PUZZLEBOX 3D)",
+      "country": "Philippines",
+      "phone": "",
+      "email": "",
+      "address": "G.Araneta Ave. Quezon City, Philippines",
+      "hasLink": "https://makerspacific.com/",
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/makerspacific.png",
+      "hLink": "https://makerspacific.com/collections/snapmaker-2-0-3-in-1-3d-printer",
+      "tag": "others",
+      "index": 31
+    },
+    {
+      "title": "Voxel",
+      "country": "Saudi Arabia",
+      "hLink": "https://voxelsa.com/product-category/3-in-1-machines-fdm-printer-cnc-laser-engraving/snapmaker/",
+      "tag": "others",
+      "index": 32,
+      "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/voxel-icon.png"
+    }
+  ],
+  "selectArea": {
+    "h1text": "Authorized Dealers",
+    "areaArray": [
+      "All",
+      "Europe",
+      "Americas",
+      "Asia and Oceania"
+    ],
+    "title": "Choose your country or region:"
+  },
+  "allotherData": {
+    "descriptionCon": {
+      "h1text": "Where to Buy",
+      "h4text1": "Snapmaker has shipped to over 100 countries. Find an online store or a certified partners of Snapmaker here,\n        we can help you with any technical questions or assistance in your region.",
+      "h4text1Plus": "If you’re interested in selling Snapmaker products or becoming an authorized distributor,\n        please help us get to know you better by completing the",
+      "formHref": "https://goo.gl/forms/I5ApF5N6AZhCJ0Z82",
+      "formText": "Application Form",
+      "h4text2": "We’ll be in touch with you regarding your application or follow up if we have any questions.",
+      "h4text2Plus": "If you need any information or have questions prior to completing this application,\n        please email us at ",
+      "salesHref": "mailto:sales@snapmaker.com",
+      "salesText": "sales@snapmaker.com"
+    },
+    "onlineStore": {
+      "title": "Official Online Stores",
+      "columnsCon": [
+        {
+          "aHref": "https://shop.snapmaker.com/",
+          "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/snapmaker.png",
+          "aDivCon": "Snapmaker online store "
+        },
+        {
+          "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/amazon_logo.png",
+          "aDivCon": "Amazon",
+          "modalTitle": "Choose your country or region",
+          "childrenPart": [
+            {
+              "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/united_states_flag.png",
+              "aDivCon": "United States",
+              "aHref": "https://www.amazon.com/snapmaker"
+            },
+            {
+              "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/canada_flag.png",
+              "aDivCon": "Canada",
+              "aHref": "https://www.amazon.ca/snapmaker"
+            },
+            {
+              "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/united_kingdom_flag.png",
+              "aDivCon": "United Kingdom",
+              "aHref": "https://www.amazon.co.uk/snapmaker"
+            },
+            {
+              "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/germany_flag.png",
+              "aDivCon": "Germany",
+              "aHref": "https://www.amazon.de/snapmaker"
+            },
+            {
+              "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/australia_flag.png",
+              "aDivCon": "Australia",
+              "aHref": "https://www.amazon.com.au/snapmaker"
+            }
+          ]
+        },
+        {
+          "aHref": "https://snapmaker.jd.com/",
+          "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/logo-jd.png",
+          "aDivCon": "JD"
+        },
+        {
+          "aHref": "https://snapmaker.tmall.com/?spm=a1z10.3-b.w5001-21696184167.3.40be7f386PAuCQ&scene=taobao_shop",
+          "aImgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/tmall_com.png",
+          "aDivCon": "TMALL "
+        }
+      ]
+    },
+    "officialAreaArray": [
+      {
+        "h3text": "Europe",
+        "columnsData": [
+          {
+            "title": "ALLNET GmbH",
+            "country": "Germany",
+            "phone": "+49 (0)89 842 222-22",
+            "email": "snapmaker@allnet.de",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/08-allnet.png",
+            "hLink": "https://shop.allnet.de/search?sSearch=snapmaker",
+            "tag": "europe"
+          },
+          {
+            "title": "PHYWE Systeme",
+            "country": "Germany",
+            "phone": "+49 (0)551 604-0",
+            "email": "info@phywe.com",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/11-phywe.png",
+            "hLink": "https://www.phywe.com/en/3d-drucker-3-in-1-3d-druck-lasergravur-und-cnc-fraese-typ-snapmaker.html",
+            "tag": "europe"
+          },
+          {
+            "title": "PowerData",
+            "country": "Switzerland",
+            "phone": "+41 (2)18 215 500",
+            "email": "info@powerdata.ch",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/12-powerdata.png",
+            "hLink": "http://shop.powerdata.ch/fr/3dprt/1596-snapmaker-3in1-3d-printer-SR-3-IN-1-6971573448015.html",
+            "tag": "europe"
+          },
+          {
+            "title": "3DNet",
+            "country": "Norway",
+            "phone": "+47 (22) 600090",
+            "email": "info@3dnet.no",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/07-3dnet.png",
+            "hLink": "https://3dnet.no/collections/3dprinter/products/snapmaker-2-0",
+            "tag": "europe"
+          },
+          {
+            "title": "3DMarkt.AT",
+            "country": "Germany",
+            "phone": "+49 (1)51 656 232-84",
+            "email": "info@3Dmarkt.at",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/06-3dmarket.png",
+            "hLink": "https://3dmarkt.at/en/advanced_search_result.php?categories_id=0&keywords=snapmaker&inc_subcat=1",
+            "tag": "europe"
+          },
+          {
+            "title": "3DTOOL",
+            "country": "Russia",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-3d-tool-icon.png",
+            "hLink": "https://3dtool.ru/category/3d-printery/filter/manufacturer_us-is-snapmaker/",
+            "tag": "europe",
+            "index": 32
+          },
+          {
+            "title": "Top3DShop",
+            "country": "Russia",
+            "phone": "+7 (499) 322 23 19",
+            "email": "sales@top3dshop.ru",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/13-top3dshop.png",
+            "hLink": "https://top3dshop.ru/kupit-3d-printer/personal/f/manufacturer-snapmaker/",
+            "tag": "europe"
+          },
+          {
+            "title": "iMakr",
+            "country": "France",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+            "hLink": "https://www.imakr.com/fr/414-imprimantes-3d-snapmaker",
+            "tag": "europe"
+          },
+          {
+            "title": "Atome 3D",
+            "country": "France",
+            "phone": "+7 (499) 322 23 19",
+            "email": "sales@top3dshop.ru",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-atome-3d.png",
+            "hLink": "https://www.atome3d.com/collections/snapmaker-machines-3d-module-dimpression-decoupe-feuilles-fibre-pom",
+            "tag": "europe"
+          },
+          {
+            "title": "123 3D",
+            "country": "Netherlands",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-12303d.png",
+            "hLink": "https://www.123-3d.nl/3D-printers/Snapmaker-2-0-A350-p16618.html",
+            "tag": "europe"
+          },
+          {
+            "title": "Mauser pt",
+            "country": "Portugal",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-mauser-pt.png",
+            "hLink": "https://mauser.pt/catalog/index.php?cPath=2207_2307&sort=2a&filter_id=370",
+            "tag": "europe"
+          },
+          {
+            "title": "Filament2Print",
+            "country": "Portugal",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-filament2print-logo.png",
+            "hLink": "https://filament2print.com/gb/filament-fdm/1340-snapmaker-20-3-in-1.html",
+            "tag": "europe"
+          },
+          {
+            "title": "Botland",
+            "country": "Poland",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Botland.png",
+            "hLink": "https://botland.com.pl/1089-drukarki-3d-snapmaker",
+            "tag": "europe"
+          },
+          {
+            "title": "VISION DISTRIBUTION",
+            "country": "Poland",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-vision-distribution-www2.png",
+            "hLink": "https://vision-distribution.pl/index.php/elementy-programu/4-drukarka-3d-snapmaker-v2-0-3w1-model-a350t-modul-lasera",
+            "tag": "europe"
+          },
+          {
+            "title": "iGo3D",
+            "country": "Germany",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/IGO 3D.png",
+            "hLink": "https://www.igo3d.com/Snapmaker-20-A350T-Enclosure",
+            "tag": "europe"
+          },
+          {
+            "title": "Versotrade",
+            "country": "Czech Republic",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-versotrade.png",
+            "hLink": "https://www.snapmakerstore.cz/vsechny-produkty/",
+            "tag": "europe"
+          },
+          {
+            "title": "A Printer",
+            "country": "Switzerland",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-a-printer-en-tete.png",
+            "hLink": "https://a-printer.ch/produit/snapmaker-2-a350t-caisson/",
+            "tag": "europe"
+          },
+          {
+            "title": "Steamkits.eu",
+            "country": "Latvia",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-steamkits.jpg",
+            "hLink": "https://snapmaker.steamkits.eu",
+            "tag": "europe"
+          },
+          {
+            "title": "Steamkits.eu",
+            "country": "Lithuania",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-steamkits-eu.jpg",
+            "hLink": "https://snapmaker.steamkits.eu",
+            "tag": "europe"
+          },
+          {
+            "title": "Allknow",
+            "country": "Germany",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/ALLknow_logo.png",
+            "hLink": "https://shop.maker-store.de/3d-druck-stift/3d-druck/3d-drucker/5396/snapmaker-2.0-a350t-3-in-1-3d-drucker-laser-cnc-fraese-gehaeuse-eu-version",
+            "tag": "europe"
+          },
+          {
+            "title": "Böttcher AG",
+            "country": "Germany",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-bottcher-ag.png",
+            "hLink": "https://www.bueromarkt-ag.de/snapmaker.html?ref=suche",
+            "tag": "europe"
+          },
+          {
+            "title": "Coolblue",
+            "country": "Germany",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-coolblue.png",
+            "hLink": "https://www.coolblue.nl/3d-printers/snapmaker",
+            "tag": "europe"
+          },
+          {
+            "title": "Digitec",
+            "country": "Switzerland",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/digitec-ch-logo-vector.png",
+            "hLink": "https://www.digitec.ch/en/search?q=snapmaker&is=snapmaker",
+            "tag": "europe"
+          },
+          {
+            "title": "MediaMarkt",
+            "country": "Switzerland",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-media-markt.png",
+            "hLink": "https://www.mediamarkt.ch/de/product/_snapmaker-3-in-1-1904548.html",
+            "tag": "europe"
+          },
+          {
+            "title": "iMakr",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+            "hLink": "https://www.imakr.com/uk/snapmaker-3d-printers",
+            "tag": "europe"
+          },
+          {
+            "title": "Box",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/32-box.png",
+            "hLink": "https://www.box.co.uk/snapmaker-3-in-1-3d-printers",
+            "tag": "europe"
+          },
+          {
+            "title": "Manchester Metrology",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ep-1-Manchester.png",
+            "hLink": "https://manchester-metrology.co.uk/product-category/snapmaker/",
+            "tag": "europe",
+            "index": 21
+          },
+          {
+            "title": "Flamefast",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Flamefast.png",
+            "hLink": "https://www.flamefast.co.uk/snapmaker.html",
+            "tag": "europe"
+          },
+          {
+            "title": "Technology Outlet",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/27-technology-outlet-logo.png",
+            "hLink": "https://technologyoutlet.co.uk/collections/3d-printers/products/snapmaker-3-in-1-3d-printer",
+            "tag": "europe"
+          },
+          {
+            "title": "Robotshop",
+            "country": "United Kingdom",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+            "hLink": "https://www.robotshop.com/uk/3d-printers.html?general_brand[]=Snapmaker",
+            "tag": "europe",
+            "index": 25
+          },
+          {
+            "title": "3DINBOX",
+            "country": "Romania",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/38-3DINBOX.png",
+            "hLink": "https://www.3dinbox.ro/cumpara/snapmaker-original-3-in-1-818",
+            "tag": "europe",
+            "index": 20
+          },
+          {
+            "title": "Help3D",
+            "country": "Italy",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ep-2-H3D.png",
+            "hLink": "https://www.3dinbox.ro/catalog/snapmaker-78",
+            "tag": "europe",
+            "index": 22
+          },
+          {
+            "title": "Geppit",
+            "country": "Bulgaria",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-geppit-icon.png",
+            "hLink": "https://geppit.com/store/3d-printing/",
+            "tag": "europe",
+            "index": 31
+          },
+          {
+            "title": "Maketechnics",
+            "country": "Bulgaria",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/maketechnics.png",
+            "hLink": "https://www.maketechnics.com/fdm-3d-printers?%D0%9C%D0%B0%D1%80%D0%BA%D0%B0=Snapmaker+3-in-1",
+            "tag": "europe",
+            "index": 21
+          },
+          {
+            "title": "EdPro",
+            "country": "Ukraine",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/EdPro.jpg",
+            "hLink": "https://snapmaker.com.ua/",
+            "tag": "europe",
+            "index": 24
+          },
+          {
+            "title": "MERKUUR",
+            "country": "Estonia",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/MERKUUR.png",
+            "hLink": "https://www.merkuur.eu/snapmaker",
+            "tag": "europe",
+            "index": 27
+          },
+          {
+            "title": "3D Prima",
+            "country": "Sweden",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-28-3D-Prima-Logo.png",
+            "hLink": "https://www.3dprima.com/3d-printers-more/manufacturer/snapmaker",
+            "tag": "europe",
+            "index": 28
+          },
+          {
+            "title": "3Djake",
+            "country": "Austria",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-3djake.png",
+            "hLink": "https://www.3djake.com/snapmaker/snapmaker-20-including-enclosure",
+            "tag": "europe",
+            "index": 29
+          },
+          {
+            "title": "Filament2print",
+            "country": "Spain",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/eu-filament2print-logo.png",
+            "hLink": "https://filament2print.com/gb/73_snapmaker",
+            "tag": "europe",
+            "index": 30
+          },
+          {
+            "title": "Ciano Shapes",
+            "country": "Italy",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/ciano-shapes.png",
+            "hLink": "https://cianoshapes.com/snapmaker/",
+            "tag": "europe",
+            "index": 33
+          }
+        ]
+      },
+      {
+        "h3text": "Americas",
+        "columnsData": [
+          {
+            "title": "iMakr",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/34-imaker-Logo.png",
+            "hLink": "https://www.imakr.com/snapmaker-3d-printers",
+            "tag": "americas"
+          },
+          {
+            "title": "B&H",
+            "country": "United States",
+            "phone": "+1 (800) 606-6969",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/B-AND-H.png",
+            "hLink": "https://www.bhphotovideo.com/c/search?q=Snapmaker&sts=ma",
+            "tag": "americas"
+          },
+          {
+            "title": "Robotshop",
+            "country": "Canada",
+            "phone": "+1 (450) 420-1446",
+            "email": "support@robotshop.com ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+            "hLink": "https://www.robotshop.com/ca/en/3d-printers.html?general_brand[]=Snapmaker",
+            "tag": "americas"
+          },
+          {
+            "title": "Resins3D",
+            "country": "Canada",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/Resins.png",
+            "hLink": "https://resins3d.com/pages/snapmaker",
+            "tag": "americas"
+          },
+          {
+            "title": "DigitMakers",
+            "country": "Canada",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/digitMakers.png",
+            "hLink": "https://www.digitmakers.ca/pages/search-results-page?q=Snapmaker&page=1&rb_vendor=Snapmaker",
+            "tag": "americas"
+          },
+          {
+            "title": "Shop3D",
+            "country": "Canada",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/shop3D_logo_COLOR.png",
+            "hLink": "https://shop3d.ca/collections/snapmaker",
+            "tag": "americas",
+            "index": 14
+          },
+          {
+            "title": "DEDICO",
+            "country": "Costa Rica",
+            "phone": "(506) 2234-6735",
+            "email": "soluciones@dedicocr.com",
+            "address": "50 meters North of MIDEPLAN, Barrio Dent,  Montes de Oca, San José",
+            "hasLink": false,
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/dedico.png",
+            "hLink": "https://www.dedicocr.com/",
+            "tag": "americas"
+          },
+          {
+            "title": "Across Trade",
+            "country": "Argentina",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/AcrossTrade.png",
+            "hLink": "http://www.4makers.com.ar/",
+            "tag": "americas",
+            "index": 8
+          },
+          {
+            "title": "Micro Center",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/Micro-Center-Logo-1200x675-1-561x316.webp",
+            "hLink": "https://www.microcenter.com/search/search_results.aspx?N=&cat=&Ntt=Snapmaker&searchButton=search",
+            "tag": "americas",
+            "index": 9
+          },
+          {
+            "title": "Robotshop",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+            "hLink": "https://www.robotshop.com/en/3d-printers.html?general_brand[]=Snapmaker",
+            "tag": "americas",
+            "index": 10
+          },
+          {
+            "title": "3D Universe",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/universe-3d-icon.png",
+            "hLink": "https://shop3duniverse.com/collections/snapmaker-3-in-1-machines",
+            "tag": "americas",
+            "index": 16
+          },
+          {
+            "title": "Go3DPro",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/go-3d-pro-icon.png",
+            "hLink": "https://www.go3dpro.com/snapmaker-2-3-in-1-3d-printers.html",
+            "tag": "americas",
+            "index": 19
+          },
+          {
+            "title": "3be",
+            "country": "Brazil",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3be-logo.png",
+            "hLink": "https://3be.com.br/produtos/snapmaker-2-0/",
+            "tag": "americas",
+            "index": 11
+          },
+          {
+            "title": "Century 3D",
+            "country": "Mexico",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/century3d.png",
+            "hLink": "https://www.century3d.com.mx/impresoras-3d-modulares-3-en-1/",
+            "tag": "americas",
+            "index": 12
+          },
+          {
+            "title": "Endurance Lasers USA",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/EnduranceUSA.png",
+            "hLink": "https://www.endurancelasersusa.com/products/snapmaker-2-0-modular-3-in-1-3d-printer",
+            "tag": "americas",
+            "index": 14
+          },
+          {
+            "title": "Learning Labs, Inc.",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/learninglabs-15.png",
+            "hLink": "https://www.lli.com/snapmaker",
+            "tag": "americas",
+            "index": 15
+          },
+          {
+            "title": "STEMfinity",
+            "country": "United States",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/stemfinity.png",
+            "hLink": "https://stemfinity.com/collections/snapmaker",
+            "tag": "americas",
+            "index": 16
+          }
+        ]
+      },
+      {
+        "h3text": "Asia and Oceania",
+        "columnsData": [
+          {
+            "title": "Filamentech",
+            "country": "Israel",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/logo-filamentech.jpg",
+            "hLink": "https://www.filamentech.co.il/252606-snapmaker",
+            "tag": "others"
+          },
+          {
+            "title": "Genix",
+            "country": "Turkey",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/FOR_WEB_Genix_Logo.png",
+            "hLink": "https://www.genix.com.tr/en/service-sales-points",
+            "tag": "others"
+          },
+          {
+            "title": "Hands On Technology",
+            "country": "South Korea",
+            "phone": "+82 2608-2633",
+            "email": "sales@handsontech.co.kr",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/16-handsontech.png",
+            "hLink": "https://www.handsontech.co.kr/goods/catalog?code=0015",
+            "tag": "others"
+          },
+          {
+            "title": "RAS INTERNATIONAL",
+            "subtitle": "CORP.",
+            "country": "Taiwan China",
+            "phone": "+886 (2) 2358-1782",
+            "email": "peterfong0909@gmail.com",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/21-ruisishiye.png",
+            "hLink": "https://goods.ruten.com.tw/item/show?21809720403770",
+            "tag": "others"
+          },
+          {
+            "title": "Chengdu Lixian ",
+            "subtitle": "3D Technology",
+            "country": "Mainland China",
+            "phone": "+86 (028) 6138-4119",
+            "email": "66684907@qq.com",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/20-lixiansanwei.png",
+            "hLink": "http://www.cy3dp.com/content-17-95-1.html",
+            "tag": "others"
+          },
+          {
+            "title": "VANLINKS",
+            "country": "Japan",
+            "phone": "+81 (3) 6264-8233",
+            "email": "info@van-links.com",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/19-vanlinks.png",
+            "hLink": "https://snapmaker.jp/",
+            "tag": "others"
+          },
+          {
+            "title": "3D Printing Pro",
+            "country": "Australia",
+            "phone": "+61 (04) 0768-6368",
+            "email": "clicknprint3d.com.au",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/14-3dprintingpro.png",
+            "hLink": "https://www.3dprintingpro.com.au/collections/snapmaker",
+            "tag": "others"
+          },
+          {
+            "title": "Cytron",
+            "country": "Malaysia",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/28-Cytron_ Logo.png",
+            "hLink": "https://www.cytron.io/snapmaker",
+            "tag": "others"
+          },
+          {
+            "title": "FUNERS",
+            "country": "South Korea",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/29-funers_Logo.png",
+            "hLink": "http://www.shopfuners.com/goods/goods_list.php?cateCd=009003002",
+            "tag": "others"
+          },
+          {
+            "title": "3Dmaker",
+            "country": "Vietnam",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/30-3Dmaker_Logo.png",
+            "hLink": "http://www.3dmaker.vn/may-in-3d-da-nang-snapmaker-2-0/",
+            "tag": "others"
+          },
+          {
+            "title": "Jaycar",
+            "country": "Australia",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/Jaycar.png",
+            "hLink": "https://www.jaycar.com.au/snapmaker-3-in-1-printer-with-3d-printer-laser-etching-cnc-carving-interchanging-modules/p/TL4400",
+            "tag": "others"
+          },
+          {
+            "title": "Regulus Robotics Machine",
+            "country": "Republic of Kazakhstan",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/RegulusRoboticsMachine.png",
+            "hLink": "https://robotprostore.kz/3d-printers?product_id=226",
+            "tag": "others"
+          },
+          {
+            "title": "PT. Kirana Sakti Komputindo",
+            "country": "Indonesia",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/35-Logo-printer3d.png",
+            "hLink": "https://www.printer3d.co.id/snapmaker-2-0-2/",
+            "tag": "others"
+          },
+          {
+            "title": "Siamreprap",
+            "country": "Thailand",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/37-SIAM REPRAP.png",
+            "hLink": "https://www.siamreprap.com/snapmaker-original-3d-printer/",
+            "tag": "others",
+            "index": 18
+          },
+          {
+            "title": "alGadgets Electronics ",
+            "country": "United Arab Emirates",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/39-alGadgets.jpg",
+            "hLink": "https://www.algadgets.com/uae/brands/snapmaker",
+            "tag": "others",
+            "index": 20
+          },
+          {
+            "title": "L Corporation",
+            "country": "South Korea",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/40-LCorporation.png",
+            "hLink": "http://lcorporation.co.kr/product/product_list.asp?code1=1&code2=13",
+            "tag": "others",
+            "index": 21
+          },
+          {
+            "title": "3DMart HK",
+            "country": "Hong Kong(SAR of China)",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/41-3DMARK.png",
+            "hLink": "https://3dmart.com.hk/en/products/snapmaker-3d-printer",
+            "tag": "others",
+            "index": 22
+          },
+          {
+            "title": "3D Lab Store",
+            "country": "Hong Kong(SAR of China)",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/assets/distributors/3D-Lab-Store-logo.jpg",
+            "hLink": "https://3dlabstore.com.hk/brand/snapmaker?lang=en",
+            "tag": "others"
+          },
+          {
+            "title": "FELTA Multi-Media Inc.",
+            "country": "Philippines",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/felta.png",
+            "hLink": "http://felta.ph/",
+            "tag": "others",
+            "index": 23
+          },
+          {
+            "title": "3Idea Technology LLP ",
+            "country": "India",
+            "phone": "",
+            "email": " ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/idea.png",
+            "hLink": "https://www.3idea.in/3d-printers/snapmaker",
+            "tag": "others",
+            "index": 24
+          },
+          {
+            "title": "Robotshop",
+            "country": "Japan",
+            "phone": "+1 (450) 420-1446",
+            "email": "support@robotshop.com ",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/05-robotshop.png",
+            "hLink": "https://www.robotshop.com/jp/ja/3d-printers.html?___store=jp_ja&general_brand[0]=Snapmaker&___from_store=ca_en",
+            "tag": "others",
+            "index": 25
+          },
+          {
+            "title": "VST ECS",
+            "country": "Thailand",
+            "phone": "",
+            "email": "",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/VST-ECS.jpg",
+            "hLink": "http://www.vstecs.co.th/th",
+            "tag": "others",
+            "index": 26
+          },
+          {
+            "title": "3DMart TW",
+            "country": "Taiwan China",
+            "phone": "",
+            "email": "",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3dmart-logo.png",
+            "hLink": "https://3dmart.com.tw/products/snapmaker-laser-engraving-cutting",
+            "tag": "others",
+            "index": 27
+          },
+          {
+            "title": "3DPW",
+            "country": "Taiwan China",
+            "phone": "",
+            "email": "",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/3dpw-logo.png",
+            "hLink": "https://www.3dprow.com/collections/snapmaker",
+            "tag": "others",
+            "index": 28
+          },
+          {
+            "title": "MindKits",
+            "country": "New Zealand",
+            "phone": "",
+            "email": "",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/mindkis-30.png",
+            "hLink": "https://www.mindkits.co.nz/Snapmaker2.aspx",
+            "tag": "others",
+            "index": 30
+          },
+          {
+            "title": "Makerspacific (PUZZLEBOX 3D)",
+            "country": "Philippines",
+            "phone": "",
+            "email": "",
+            "address": "G.Araneta Ave. Quezon City, Philippines",
+            "hasLink": "https://makerspacific.com/",
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/makerspacific.png",
+            "hLink": "https://makerspacific.com/collections/snapmaker-2-0-3-in-1-3d-printer",
+            "tag": "others",
+            "index": 31
+          },
+          {
+            "title": "Voxel",
+            "country": "Saudi Arabia",
+            "hLink": "https://voxelsa.com/product-category/3-in-1-machines-fdm-printer-cnc-laser-engraving/snapmaker/",
+            "tag": "others",
+            "index": 32,
+            "imgSrc": "https://ditfjx9w4x3vl.cloudfront.net/img/voxel-icon.png"
+          }
+        ]
+      }
+    ]
+  }
+}
